@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AudioBook Maker</string>
+    <string name="page_title_text">Create Audiobooks from PDF</string>
+    <string name="illustration_instruction">Browse and choose the PDF file you want to convert to audio-book</string>
 </resources>
